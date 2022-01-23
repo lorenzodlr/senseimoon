@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.535d72ce.css",
+    "main.js": "/static/js/main.233f29a9.js",
+    "static/js/787.ec36dfa6.chunk.js": "/static/js/787.ec36dfa6.chunk.js",
+    "static/media/senseimoonlogo.png": "/static/media/senseimoonlogo.b342495462a9dad6684b.png",
+    "index.html": "/index.html",
+    "main.535d72ce.css.map": "/static/css/main.535d72ce.css.map",
+    "main.233f29a9.js.map": "/static/js/main.233f29a9.js.map",
+    "787.ec36dfa6.chunk.js.map": "/static/js/787.ec36dfa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.535d72ce.css",
+    "static/js/main.233f29a9.js"
+  ]
+}
