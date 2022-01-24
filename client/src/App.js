@@ -14,7 +14,7 @@ function App() {
               <div className='underline' />
             </div>
             <div className='anchor'>
-              <a>PooCoin</a>
+              <a href='https://poocoin.app/tokens/0xe74074ec6a7e24877bf286e2b115d96e617984be' target='__blank'>PooCoin</a>
               <div className='underline' />
             </div>
             <div className='anchor'>
@@ -24,7 +24,7 @@ function App() {
           </div>
         </header>
         <div>
-          <h2>Contract address</h2>
+          <h2>0xE74074eC6A7E24877BF286E2B115D96e617984Be</h2>
           <div className='tokenomics'>
             <p><strong>Buy</strong> <span>&mdash;</span> 9% marketing, 3% liquidity</p>
             <p><strong>Sell</strong> <span>&mdash;</span> 11% marketing, 4% liquidity</p>
