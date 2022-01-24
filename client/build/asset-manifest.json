@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9698ad59.css",
+    "main.css": "/static/css/main.ee841b55.css",
     "main.js": "/static/js/main.a919d110.js",
     "static/js/787.ec36dfa6.chunk.js": "/static/js/787.ec36dfa6.chunk.js",
     "static/media/senseimoonlogo.png": "/static/media/senseimoonlogo.b342495462a9dad6684b.png",
     "index.html": "/index.html",
-    "main.9698ad59.css.map": "/static/css/main.9698ad59.css.map",
+    "main.ee841b55.css.map": "/static/css/main.ee841b55.css.map",
     "main.a919d110.js.map": "/static/js/main.a919d110.js.map",
     "787.ec36dfa6.chunk.js.map": "/static/js/787.ec36dfa6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9698ad59.css",
+    "static/css/main.ee841b55.css",
     "static/js/main.a919d110.js"
   ]
 }
