@@ -1,6 +1,5 @@
 import './App.css'
 import logo from './senseimoonlogo.png'
-import { useEffect } from 'react'
 
 function App() {
 
