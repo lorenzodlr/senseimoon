@@ -18,7 +18,7 @@ function App() {
               <div className='underline' />
             </div>
             <div className='anchor'>
-              <a>Liquidity Lock</a>
+              <a href='https://deeplock.io/lock/0xf40149B4bD875AC5dD730ed4A80F67D17b0524d2' target='__blank'>Liquidity Lock</a>
               <div className='underline' />
             </div>
           </div>
