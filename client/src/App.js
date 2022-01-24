@@ -10,7 +10,7 @@ function App() {
           <h1>Sensei Moon</h1>
           <div className='anchor-container'>
             <div className='anchor'>
-              <a>Twitter</a>
+              <a href='https://twitter.com/_senseimoon' target='__blank'>Twitter</a>
               <div className='underline' />
             </div>
             <div className='anchor'>
